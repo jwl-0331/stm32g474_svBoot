@@ -1,0 +1,1 @@
+# stm32g474_svBoot
