@@ -1,0 +1,15 @@
+../Middlewares/Solvine/Utils/src/svRingBuffer.c:10:14:svRingBuffer_GetSize	0	static
+../Middlewares/Solvine/Utils/src/svRingBuffer.c:15:14:svRingBuffer_GetCount	0	static
+../Middlewares/Solvine/Utils/src/svRingBuffer.c:27:6:svRingBuffer_Reset	0	static
+../Middlewares/Solvine/Utils/src/svRingBuffer.c:34:14:svRingBuffer_Capacity	0	static
+../Middlewares/Solvine/Utils/src/svRingBuffer.c:39:14:svRingBuffer_FreeBytes	0	static
+../Middlewares/Solvine/Utils/src/svRingBuffer.c:51:5:svRingBuffer_IsFull	8	static
+../Middlewares/Solvine/Utils/src/svRingBuffer.c:57:5:svRingBuffer_IsEmpty	8	static
+../Middlewares/Solvine/Utils/src/svRingBuffer.c:62:22:svRingBuffer_Tail	0	static
+../Middlewares/Solvine/Utils/src/svRingBuffer.c:67:22:svRingBuffer_Head	0	static
+../Middlewares/Solvine/Utils/src/svRingBuffer.c:72:22:svRingBuffer_Buf	0	static
+../Middlewares/Solvine/Utils/src/svRingBuffer.c:77:5:svRingBuffer_IsOverflow	0	static
+../Middlewares/Solvine/Utils/src/svRingBuffer.c:82:5:svRingBuffer_IsTurnAround	0	static
+../Middlewares/Solvine/Utils/src/svRingBuffer.c:87:6:svRingBuffer_ClearOverflow	0	static
+../Middlewares/Solvine/Utils/src/svRingBuffer.c:92:5:svRingBuffer_Push	0	static
+../Middlewares/Solvine/Utils/src/svRingBuffer.c:111:15:svRingBuffer_Pop	0	static

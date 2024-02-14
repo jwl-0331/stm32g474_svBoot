@@ -1,0 +1,5 @@
+../Drivers/BSP/src/Reset.c:16:6:Reset_ISR	3
+../Drivers/BSP/src/Reset.c:28:6:Reset_Init	3
+../Drivers/BSP/src/Reset.c:55:10:Reset_GetCount	1
+../Drivers/BSP/src/Reset.c:61:6:Reset_ToBoot	2
+../Drivers/BSP/src/Reset.c:87:6:Reset_ToSysBoot	1

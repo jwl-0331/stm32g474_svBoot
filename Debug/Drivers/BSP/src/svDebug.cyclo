@@ -1,0 +1,10 @@
+../Drivers/BSP/src/svDebug.c:123:6:svDebugPutChar	1
+../Drivers/BSP/src/svDebug.c:47:6:svDebugRxChar	2
+../Drivers/BSP/src/svDebug.c:57:6:svDebugProcess	4
+../Drivers/BSP/src/svDebug.c:85:6:svDebugCallback	5
+../Drivers/BSP/src/svDebug.c:102:17:svDebugGetTxFree	1
+../Drivers/BSP/src/svDebug.c:107:6:svDebugInit	1
+../Drivers/BSP/src/svDebug.c:116:6:svSetDebugMsgLevel	1
+../Drivers/BSP/src/svDebug.c:128:6:svDebugPutString	4
+../Drivers/BSP/src/svDebug.c:152:6:svDebugMessage	1
+../Drivers/BSP/src/svDebug.c:172:6:svDebugFormattedString	11

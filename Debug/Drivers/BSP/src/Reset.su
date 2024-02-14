@@ -1,0 +1,5 @@
+../Drivers/BSP/src/Reset.c:16:6:Reset_ISR	0	static
+../Drivers/BSP/src/Reset.c:28:6:Reset_Init	8	static
+../Drivers/BSP/src/Reset.c:55:10:Reset_GetCount	0	static
+../Drivers/BSP/src/Reset.c:61:6:Reset_ToBoot	16	static,ignoring_inline_asm
+../Drivers/BSP/src/Reset.c:87:6:Reset_ToSysBoot	8	static,ignoring_inline_asm

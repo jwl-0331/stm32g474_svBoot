@@ -1,0 +1,7 @@
+../Drivers/BSP/src/LED.c:19:6:LED_Init	0	static
+../Drivers/BSP/src/LED.c:25:6:LED_Deinit	0	static
+../Drivers/BSP/src/LED.c:30:6:LED_Enable	0	static
+../Drivers/BSP/src/LED.c:35:6:LED_OnOff	0	static
+../Drivers/BSP/src/LED.c:89:13:CLI_LEDTest	0	static
+../Drivers/BSP/src/LED.c:66:6:LED_AllOnOff	0	static
+../Drivers/BSP/src/LED.c:75:6:LED_SimpleAnimation	8	static

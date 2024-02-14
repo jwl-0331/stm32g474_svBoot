@@ -1,0 +1,8 @@
+../Drivers/BSP/src/UART.c:26:7:UART_Init	7
+../Drivers/BSP/src/UART.c:89:7:IsUartConnected	1
+../Drivers/BSP/src/UART.c:94:11:UART_Write	3
+../Drivers/BSP/src/UART.c:118:11:UART_GetBaud	1
+../Drivers/BSP/src/UART.c:127:10:UART_Printf	1
+../Drivers/BSP/src/UART.c:146:10:Uart_Available	2
+../Drivers/BSP/src/UART.c:159:9:Uart_Read	2
+../Drivers/BSP/src/UART.c:174:6:HAL_UART_RxCpltCallback	3

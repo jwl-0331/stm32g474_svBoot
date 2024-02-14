@@ -1,0 +1,6 @@
+../Middlewares/Solvine/Utils/src/svOvRingBuffer.c:17:6:svOvRingBuffer_Init	3
+../Middlewares/Solvine/Utils/src/svOvRingBuffer.c:29:14:svOvRingBuffer_GetSize	2
+../Middlewares/Solvine/Utils/src/svOvRingBuffer.c:36:14:svOvRingBuffer_GetCount	2
+../Middlewares/Solvine/Utils/src/svOvRingBuffer.c:44:8:svOvRingBuffer_GetMovingAverage	3
+../Middlewares/Solvine/Utils/src/svOvRingBuffer.c:53:14:svOvRingBuffer_AddData	2
+../Middlewares/Solvine/Utils/src/svOvRingBuffer.c:70:8:svOvRingBuffer_GetData	4

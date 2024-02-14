@@ -1,0 +1,9 @@
+../Middlewares/Solvine/Utils/src/svList.c:21:6:svList_Init	0	static
+../Middlewares/Solvine/Utils/src/svList.c:29:6:svList_RemoveMembers	16	static
+../Middlewares/Solvine/Utils/src/svList.c:42:14:svList_Size	0	static
+../Middlewares/Solvine/Utils/src/svList.c:47:6:svList_PushFirst	0	static
+../Middlewares/Solvine/Utils/src/svList.c:60:6:svList_PushLast	0	static
+../Middlewares/Solvine/Utils/src/svList.c:73:17:svList_PopFirst	0	static
+../Middlewares/Solvine/Utils/src/svList.c:90:17:svList_PeekFirst	0	static
+../Middlewares/Solvine/Utils/src/svList.c:95:17:svList_PeekLast	0	static
+../Middlewares/Solvine/Utils/src/svList.c:100:17:svList_GetNext	0	static
